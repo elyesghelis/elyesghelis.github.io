@@ -1,5 +1,7 @@
 # Site de présentation de Ghelis Elyes
 
+Site en ligne : https://tensh1nn.github.io
+
 Site personnel demandé par mon maître de stage pendant ma période de formation en milieu professionnel à Nîmes Métropole, du 23 novembre au 18 décembre 2026. Il présente mon parcours scolaire, mes stages et mes compétences, et permet de télécharger mon CV et ma lettre de motivation.
 
 Je suis en Terminale Bac Pro CIEL au lycée La Salle d’Alès.
